@@ -24,4 +24,10 @@ This project uses **YOLOv8** (Ultralytics) to detect **cars only within a Region
 - OpenCV
 - NumPy
 
+## 🖼️ Sample Output
+
+This image shows the result of ROI-based car detection using YOLOv8.
+
+![ROI Car Detection Output](https://github.com/user-attachments/assets/e273c3fa-fba2-417f-a93e-2d4026754472)
+
 
